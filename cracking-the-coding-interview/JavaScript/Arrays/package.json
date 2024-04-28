@@ -1,0 +1,12 @@
+{
+  "name": "arrays",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-rotate-matrix.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Sushant Lokhande",
+  "license": "ISC"
+}
